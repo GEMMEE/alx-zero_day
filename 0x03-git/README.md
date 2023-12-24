@@ -15,7 +15,7 @@ $ git push
 $ git checkout
 $ git checkout -b
 $ git log
-
+$ git config
 ```
 For complete list of all Git commands click [here](https://git-scm.com/docs).
 
