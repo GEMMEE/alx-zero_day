@@ -22,3 +22,14 @@ $ git add .
 
 ```
 
+## How to push commits to a remote repository
+> ```git push <remote-name> <branch-name>```
+
+## How to rename a branch
+> ```git push <remote-name> <local-branch-name>:<remote-branch-name>```
+
+## How to delete a remote branch
+> ```git push <remote-name> :<branch-name>```
+
+**Read more** :point_right: [GitHub Docs](https://docs.github.com/en/get-started/using-git)
+
