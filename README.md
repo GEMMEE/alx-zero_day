@@ -28,15 +28,15 @@ At the end of this project, you are expected to be able to [explain to anyone](h
    * Step 3 - Update your profile on the Intranet
    * Step 4 - Create your first repository
    * Step 5 - Open the sandbox and start the `>_Webterm`
-   * Clone your repository
-```
-\# replace {YOUR_PERSONAL_TOKEN} with your token from step 1
-\# Replace {YOUR_USERNAME} with your username from step 0 and 1
-root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-zero_day.git                  
-Cloning into 'alx-zero_day'...
-warning: You appear to have cloned an empty repository.       
-```
-**Pro-Tip**: On windows, use CTRL + A + V to paste in the web terminal
+      * Clone your repository
+      ```
+      # replace {YOUR_PERSONAL_TOKEN} with your token from step 1
+      # Replace {YOUR_USERNAME} with your username from step 0 and 1
+      root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-zero_day.git                  
+      Cloning into 'alx-zero_day'...
+      warning: You appear to have cloned an empty repository.       
+      ```
+      **Pro-Tip**: On windows, use CTRL + A + V to paste in the web terminal
    * Step 6 - Create the README.md and push the modifications
       * Navigate to this new directory
       * Create README.md with the content `My first readme`
@@ -64,5 +64,6 @@ warning: You appear to have cloned an empty repository.
   * Learn Markdown in 30 minutes! by :point_right: [Faraday Academy](https://www.youtube.com/watch?v=bTVIMt3XllM)
 
  
-
+---
+**Author**: Gamachu AD
 
