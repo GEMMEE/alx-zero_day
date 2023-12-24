@@ -18,7 +18,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * How to create a branch [:point_left:](https://learngitbranching.js.org/)
 * How to merge branches [:point_left:](https://www.varonis.com/blog/git-branching)
 * How to work as collaborators on a project [:point_left:](https://www.youtube.com/watch?v=4nyIS58ORWw)
-* How to use git to collaborate with others [:point_left](https://www.youtube.com/watch?v=ygqx50-JHEE)
+* How to use git to collaborate with others [:point_left:](https://www.youtube.com/watch?v=ygqx50-JHEE)
 * Which files should and which files should not appear in your repo [:point_left:](https://zellwk.com/blog/what-not-to-save-into-a-git-repo/)
 
 ### Resources
